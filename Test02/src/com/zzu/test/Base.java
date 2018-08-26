@@ -6,7 +6,7 @@ package com.zzu.test;
  */
 public class Base {
 	private String baseName = "base";
-
+    //分支测试开发
 	public Base() {
 		System.out.println("--1--");
 		callName();
