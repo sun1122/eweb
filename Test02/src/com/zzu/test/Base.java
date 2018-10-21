@@ -12,7 +12,7 @@ public class Base {
 		callName();
 		System.out.println("--2--");
 	}
-
+       // pull fetch 区别
 	public void callName() {
 		System.out.println(baseName);
 		System.out.println("dev分支上开发");
